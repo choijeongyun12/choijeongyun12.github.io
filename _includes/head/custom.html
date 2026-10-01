@@ -19,4 +19,20 @@
 <link rel="icon" href="/images/favicon.ico"/>
 <meta name="theme-color" content="var(--global-bg-color)"/>
 
+<style>
+  /* Make section dividers (---) actually visible; the theme default is too pale */
+  #main hr {
+    border-top-width: 2px;
+    border-top-color: #d98da3;
+    opacity: 0.55;
+    margin: 2em 0;
+  }
+  @media (prefers-color-scheme: dark) {
+    #main hr {
+      border-top-color: #f0a8be;
+      opacity: 0.4;
+    }
+  }
+</style>
+
 <!-- end custom head snippets -->
