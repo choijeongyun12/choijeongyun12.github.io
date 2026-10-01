@@ -20,6 +20,6 @@ Research interests
 
 Activities
 ======
-- **SEA:ME@KOREA** — Automotive Software Study Club (2025.01 &ndash; present). Contributing to projects and workshops on vehicle software systems.
+- **[SEA:ME@KOREA](https://auto.kookmin.ac.kr/campus/student_activities/seame)** — Automotive Software Study Club (2025.01 &ndash; present). Contributing to projects and workshops on vehicle software systems.
 
 See the [CV](/cv/) page for education, publications, and awards.

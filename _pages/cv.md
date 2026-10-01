@@ -48,4 +48,4 @@ Awards
 
 Activities
 ======
-* 2025.01 &ndash; present: Member, SEA:ME@KOREA (Automotive Software Study Club)
+* 2025.01 &ndash; present: Member, [SEA:ME@KOREA](https://auto.kookmin.ac.kr/campus/student_activities/seame) (Automotive Software Study Club)
