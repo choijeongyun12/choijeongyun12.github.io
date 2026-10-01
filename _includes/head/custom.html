@@ -20,18 +20,11 @@
 <meta name="theme-color" content="var(--global-bg-color)"/>
 
 <style>
-  /* Make section dividers (---) actually visible; the theme default is too pale */
+  /* Thicken section dividers (---) for visibility, using the theme's own default border color */
   #main hr {
     border-top-width: 2px;
-    border-top-color: #8a8a8a;
-    opacity: 0.55;
-    margin: 2em 0;
-  }
-  @media (prefers-color-scheme: dark) {
-    #main hr {
-      border-top-color: #a8a8a8;
-      opacity: 0.45;
-    }
+    border-top-color: var(--global-border-color);
+    margin: 3.5em 0;
   }
 </style>
 
