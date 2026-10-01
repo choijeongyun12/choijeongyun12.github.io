@@ -22,7 +22,7 @@ repository               : "choijeongyun12/choijeongyun12.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpg"
+  avatar           : "profile.png"
   name             : "Jeongyun Choi"
   pronouns         : # example: "she/her"
   bio              : "Undergraduate researcher — autonomous driving, embedded systems, automotive software"
