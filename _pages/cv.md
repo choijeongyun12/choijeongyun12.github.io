@@ -9,8 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
-Welcome to my page! I'm an undergraduate researcher interested in autonomous driving, embedded systems, and automotive software.
+Welcome to my page!
 ======
+
+I'm an undergraduate researcher interested in autonomous driving, embedded systems, and automotive software.
 
 ---
 
