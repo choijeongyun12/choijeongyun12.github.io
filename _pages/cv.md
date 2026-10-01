@@ -18,7 +18,7 @@ I'm an undergraduate researcher interested in autonomous driving, embedded syste
 
 Education
 ======
-* B.S. in Future Mobility, Kookmin University, 2024 &ndash; present
+* Undergraduate, Department of Future Mobility, Kookmin University, 2024 &ndash; present
 
 ---
 
