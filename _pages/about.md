@@ -14,6 +14,7 @@ My current research looks at platooning for electric trucks: how a convoy can sa
 Research interests
 ======
 - Autonomous driving & vehicle platooning
+- End-to-end driving
 - Embedded systems
 - Automotive software
 - Sensor fusion & real-time systems

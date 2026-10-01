@@ -14,19 +14,20 @@ redirect_from:
 Welcome to my page!
 ======
 
-I'm an undergraduate researcher interested in autonomous driving, embedded systems, and automotive software.
+Hi! My major is Future Mobility. I'm interested in autonomous driving, end-to-end driving, and embedded systems.
 
 ---
 
 Education
 ======
-* Undergraduate, Department of Future Mobility, Kookmin University, 2024 &ndash; present
+* B.S. in Future Mobility, Kookmin University, 2024 &ndash; present
 
 ---
 
 Research Interests
 ======
 * Autonomous driving & vehicle platooning
+* End-to-end driving
 * Embedded systems
 * Automotive software
 * Sensor fusion & real-time systems
