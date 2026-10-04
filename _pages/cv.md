@@ -45,7 +45,7 @@ Publications
 Awards
 ======
 * 2026: Grand Prize (1st Place), SEA:ME Hackathon
-* 2026: Best Paper Award, KSAE Spring Conference (Poster Division)
+* 2026: Outstanding Presentation Paper Award (Poster Division), KSAE Spring Conference 2026
 * 2025: Silver Award (4th Place), SEA:ME Hackathon
 * 2024: Grand Prize (1st Place), National University UAM Olympiad &mdash; Social Acceptance Division
 
